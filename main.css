@@ -88,3 +88,7 @@ td img {
 .nav-bottom {
     list-style: none;
 }
+
+.sponzor-logo img {
+    height: 48px;
+}
