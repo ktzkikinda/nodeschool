@@ -1,20 +1,19 @@
+h2{font-size:3rem; font-weight: 700;}
+h3{font-size:2rem;}
+h1{font-size:4rem; font-weight: 700;}
 section {
-    padding: 20px;
     height:100vh;
     margin:0;
     border: 1px solid red;
     font-family: 'Catamaran', sans-serif;
 }
-ul{ font-size: 16px;}
-h2{font-size:36px;}
-h3{font-size:24px;}
-h1{font-size:42px; font-weight: 800;}
+h1,h2,h3{margin: 0 0 0 0;}
+ul, p {
+    margin:0;
+    font-size: 16px;
+    }
+
 table{ border:1px solid black;}
-a{
-    border:1px solid lightcoral;
-    background-color: lightcoral;
-    color:white;
-}
 .poz{
    color:white;
    background-image: linear-gradient(to bottom right, rgba(48,63,159,0.9) 0%, rgba(48,63,159,0.9) 100%), url('poyadina.jpg');
