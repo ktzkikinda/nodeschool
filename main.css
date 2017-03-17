@@ -102,10 +102,12 @@ td img {
     margin: 1rem 0;
 }
 .futer{
-        font-size:0.75rem;
+     color:#303f9f;
+        font-size:1.2rem;
         margin-bottom: 3em;
 
 }
+a{text-decoration:none;}
 .desno{
     text-align:right;
 
