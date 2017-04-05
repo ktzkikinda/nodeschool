@@ -6,9 +6,7 @@ hr {
     border: 1px solid #303f9f;
 }
 
-h1,
-h2,
-h3 {
+h1, h2, h3 {
     font-family: 'Catamaran', sans-serif;
     line-height: 1;
 }
@@ -42,8 +40,7 @@ section {
     padding: 5em 0;
 }
 
-ul,
-p {
+ul, p {
     margin: 0;
     font-size: 16px;
 }
@@ -53,15 +50,22 @@ p {
     background-image: url('poyadina.png');
 }
 
-.sect2,
-.sect3 {
+
+/* Sektori */
+
+.sect2, .sect3 {
     color: #303f9f;
     background-color: white;
 }
+
 p:nth-of-type(2) {
-    font-weight:700;
-    font-size:18px;
+    font-weight: 700;
+    font-size: 18px;
 }
+
+
+/* "Prijavi se" taster */
+
 .button {
     background-color: white;
     border: none;
@@ -104,18 +108,22 @@ td img {
     box-shadow: 0 1px 25px rgba(0, 0, 0, .25);
     margin: 1rem 0;
 }
-.futer{
-     color:#303f9f;
-        font-size:14px;
-        margin-bottom: 3em;
 
+.futer {
+    color: #303f9f;
+    font-size: 14px;
+    margin-bottom: 3em;
 }
-a{text-decoration:none;}
 
-.desno{text-align:right;}
+a {
+    text-decoration: none;
+}
 
-li:hover{
+.desno {
+    text-align: right;
+}
+
+li:hover {
     transition: all 0.5s;
-    font-size:20px;
-    font-weight:bold;
-}
+    font-size: 20px;
+    font-weight: bold;
