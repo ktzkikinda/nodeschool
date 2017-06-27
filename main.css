@@ -58,9 +58,9 @@ p {
     color: #303f9f;
     background-color: white;
 }
-p:nth-of-type(2) {
+.boldovan{
     font-weight:700;
-    font-size:18px;
+    font-size:1.1rem;
 }
 .button {
     background-color: white;
@@ -112,6 +112,7 @@ td img {
 a{text-decoration:none;}
 
 .desno{text-align:right;}
+
 
 @media only screen and (max-width: 64em) {
 
