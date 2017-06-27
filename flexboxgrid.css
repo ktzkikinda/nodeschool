@@ -295,7 +295,9 @@
     .col-sm-offset-9,
     .col-sm-offset-10,
     .col-sm-offset-11,
+
     .col-sm-offset-12 {
+
         box-sizing: border-box;
         -webkit-box-flex: 0;
         -ms-flex: 0 0 auto;
@@ -316,6 +318,7 @@
         flex-basis: 8.33333333%;
         max-width: 8.33333333%;
     }
+
     .col-sm-2 {
         -ms-flex-preferred-size: 16.66666667%;
         flex-basis: 16.66666667%;
